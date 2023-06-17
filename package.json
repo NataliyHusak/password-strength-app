@@ -1,7 +1,6 @@
 {
   "name": "password-strength-app",
   "version": "0.0.0",
-  "homepage": "https://nataliyhusak.github.io/passwordCheck/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
